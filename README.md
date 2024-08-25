@@ -6,7 +6,7 @@ I'm a Junior Full-stack Developer with a passion for learning and applying new t
 - 
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **React, Django, or Python**
-- 🔭 I’m working on [TechSupp.ge](#Techsupp.ge) and [1inOne.com](#)
+- 🔭 I’m working on [TechSupp.ge](https://Techsupp.ge) and [1inOne.com](https://1inOne.com)
 - 👀 I’m interested in learning **Electron** to expand my skills in desktop application development.
 - 📫 How to reach me: guram.shanidze.33@gmail.com
 - 😄 Pronouns: ...
