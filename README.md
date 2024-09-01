@@ -3,7 +3,6 @@
 I'm a Junior Full-stack Developer with a passion for learning and applying new technologies. I enjoy working on web development projects using React, Django, and Python.
 
 
-- 
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **React, Django, or Python**
 - 🔭 I’m working on [TechSupp.ge](https://Techsupp.ge) and [1inOne.com](https://1inOne.com)
