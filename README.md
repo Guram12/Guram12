@@ -3,9 +3,9 @@
 I'm a Junior Full-stack Developer with a passion for learning and applying new technologies. I enjoy working on web development projects using React, Django, and Python.
 
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** and **Nextjs**
 - 💬 Ask me about **React, Django, or Python**
-- 🔭 I’m working on [TechSupp.ge](https://Techsupp.ge) and [mepunity.com](https://mepunity.com)
+- 🔭 I’m currently working on Starmap[https://starmap-tan.vercel.app/]
 - 👀 I’m interested in learning **Electron** to expand my skills in desktop application development.
 - 📫 How to reach me: guram.shanidze.33@gmail.com
 
